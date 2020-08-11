@@ -8,6 +8,6 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("finish");
-        System.out.println("fan");
+        System.out.println("fany有东西才能同步?");
     }
 }
