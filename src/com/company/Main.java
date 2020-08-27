@@ -9,5 +9,6 @@ public class Main {
         }
         System.out.println("finish");
         System.out.println("fany有东西才能同步?");
+        System.out.println("11");
     }
 }
